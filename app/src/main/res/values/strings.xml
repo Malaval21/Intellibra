@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Intellibra</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!--String related to calibration-->
+
+    <string name="calibration_question">Run calibration test now?</string>
+    <string name="go_dash_request">No, Go to Dash</string>
+
+    <!--String related to pairing-->
+    <string name="pair_question">Turn on bra and click PAIR</string>
+    <string name="pair">Pair</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_pair">PairActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
